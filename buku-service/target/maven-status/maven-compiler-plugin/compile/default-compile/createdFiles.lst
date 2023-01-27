@@ -1,0 +1,5 @@
+com\eli\buku\service\entity\Buku.class
+com\eli\buku\service\controller\BukuController.class
+com\eli\buku\service\service\BukuService.class
+com\eli\buku\service\BukuServiceApplication.class
+com\eli\buku\service\repository\BukuRepository.class
